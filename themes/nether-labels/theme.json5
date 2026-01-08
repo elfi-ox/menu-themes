@@ -13,7 +13,7 @@
   name: 'Nether Labels',
   author: 'Simon Schneegans, Elfi Ox',
   license: 'CC0-1.0',
-  themeVersion: '1.0',
+  themeVersion: '2.1',
 
   // This theme was created for Kando's theme engine version 1. Kando will use this to
   // check if the theme is compatible with the current version of Kando.
@@ -47,4 +47,5 @@
     { class: 'icon-layer', content: 'icon' },
     { class: 'label-layer', content: 'name' },
   ],
+
 }
